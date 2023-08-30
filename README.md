@@ -7,7 +7,16 @@
 **BOOK LINK:** [The Complete iOS App Development Bootcamp]([https://www.inflearn.com/course/ios-uikit-15apps/dashboard](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250978#overview))
 
 ## Table Of Contents
-* [None]()
+* [01-I am Rich]()
 
 # Projects
-## None
+## 01-I_am_Rich
+
+**프로젝트** [I am Rich](01-I am Rich) <br>
+**게시일자**  2023년 8월 30일(수) <br>
+
+| 이미지 |
+| :--: |
+| <img src="" align="center" width="235" height="511"> |
+
+<br>
