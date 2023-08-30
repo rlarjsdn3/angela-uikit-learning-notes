@@ -10,7 +10,7 @@
 * 01 - I am Rich
 
 # Projects
-## 01-I_am_Rich
+## 01-I am Rich
 
 **프로젝트** I am Rich <br>
 **게시일자**  2023년 8월 30일(수) <br>
