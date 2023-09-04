@@ -8,6 +8,8 @@
 
 ## Table Of Contents
 * 01 - I am Rich
+* 02 - I am Poor
+* 03 - Dicee
 
 # Projects
 ## 01-I am Rich
@@ -18,5 +20,27 @@
 | 이미지 |
 | :--: |
 | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/1ae713e3-e0ec-4e98-b91b-530d41d65102" align="center" width="235" height="511"> |
+
+<br>
+
+## 03-I am Poor
+
+**프로젝트** I am Poor <br>
+**게시일자**  2023년 9월 4일(월) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/ca07c6f7-0f1d-4bb1-987e-31dd5562ff6e" align="center" width="235" height="511"> |
+
+<br>
+
+## 03-Dicee
+
+**프로젝트** Dicee <br>
+**게시일자**  2023년 9월 4일(월) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/80f345a9-ce90-4f7e-bc09-d02142c17f52" align="center" width="235" height="511"> |
 
 <br>
