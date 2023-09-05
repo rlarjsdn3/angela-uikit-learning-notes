@@ -10,9 +10,10 @@
 * 01 - I am Rich
 * 02 - I am Poor
 * 03 - Dicee
+* 04 - Magic 8 Ball
 
 # Projects
-## 01-I am Rich
+## 01 - I am Rich
 
 **프로젝트** I am Rich <br>
 **게시일자**  2023년 8월 30일(수) <br>
@@ -23,7 +24,7 @@
 
 <br>
 
-## 03-I am Poor
+## 02 - I am Poor
 
 **프로젝트** I am Poor <br>
 **게시일자**  2023년 9월 4일(월) <br>
@@ -34,7 +35,7 @@
 
 <br>
 
-## 03-Dicee
+## 03 - Dicee
 
 **프로젝트** Dicee <br>
 **게시일자**  2023년 9월 4일(월) <br>
@@ -44,3 +45,15 @@
 | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/80f345a9-ce90-4f7e-bc09-d02142c17f52" align="center" width="235" height="511"> |
 
 <br>
+
+## 04 - Magic 8 Ball
+
+**프로젝트** Magic 8 Ball <br>
+**게시일자**  2023년 9월 5일(화) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/baf7c5f4-f3f2-4486-bcbc-5b1b642547d0" align="center" width="235" height="511"> |
+
+<br>
+
