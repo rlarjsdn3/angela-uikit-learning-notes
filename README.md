@@ -13,6 +13,8 @@
 * 04 - Magic 8 Ball
 * 05 - AutoLayout
 * 06 - Calculator
+* 07 - Xylophone
+* 08 - EggTimer
 
 # Projects
 ## 01 - I am Rich
@@ -78,6 +80,28 @@
 | 이미지 ① | 이미지 ② |
 | :--: | :--: |
 | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/a23a8231-140f-4510-b71d-3a397f256571" align="center" width="235" height="511"> | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/d958f39a-3e00-4e01-bb2b-089589718a35" align="center" width="511" height="235"> |
+
+<br>
+
+## 07 - Xylophone
+
+**프로젝트** Xylophone <br>
+**게시일자**  2023년 9월 13일(수) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/a375bd58-89b2-4042-ae13-20bfa3e4a238" align="center" width="235" height="511"> |
+
+<br>
+
+## 08 - EggTimer
+
+**프로젝트** EggTimer <br>
+**게시일자**  2023년 9월 13일(수) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/f9e3905f-fad7-4a81-9732-7262a1b0608f" align="center" width="235" height="511"> |
 
 <br>
 
