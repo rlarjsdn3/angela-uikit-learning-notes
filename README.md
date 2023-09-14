@@ -15,6 +15,8 @@
 * 06 - Calculator
 * 07 - Xylophone
 * 08 - EggTimer
+* 09 - Quizzler
+* 10 - Destini
 
 # Projects
 ## 01 - I am Rich
@@ -102,6 +104,28 @@
 | 이미지 |
 | :--: |
 | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/f9e3905f-fad7-4a81-9732-7262a1b0608f" align="center" width="235" height="511"> |
+
+<br>
+
+## 09 - Quizzler
+
+**프로젝트** Quizzler <br>
+**게시일자**  2023년 9월 14일(목) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/0ad87bc2-a6af-4751-b12f-29ef8fbd9616" align="center" width="235" height="511"> |
+
+<br>
+
+## 10 - Destini
+
+**프로젝트** Destini <br>
+**게시일자**  2023년 9월 14일(목) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/5709995c-0aa1-4d92-ace7-0d9d39da744b" align="center" width="235" height="511"> |
 
 <br>
 
