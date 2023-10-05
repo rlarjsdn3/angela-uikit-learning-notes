@@ -18,6 +18,7 @@
 * 09 - Quizzler
 * 10 - Destini
 * 11 - BMI-Calculator
+* 12 - Tipsy
 
 # Projects
 ## 01 - I am Rich
@@ -140,6 +141,18 @@
 | <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/85ccbe1d-06d3-4aa8-ab39-10a3be099798" align="center" width="235" height="511"> |
 
 <br>
+
+## 12 - Tipsy
+
+**프로젝트** Tipsy <br>
+**게시일자**  2023년 10월 5일(목) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/e5b69348-e55e-4f09-ba1c-b2fb0c6bb249" align="center" width="235" height="511"> |
+
+<br>
+
 
 
 
