@@ -19,6 +19,7 @@
 * 10 - Destini
 * 11 - BMI-Calculator
 * 12 - Tipsy
+* 13 - Clima
 
 # Projects
 ## 01 - I am Rich
@@ -153,6 +154,16 @@
 
 <br>
 
+## 13 - Clima
+
+**프로젝트** Clima <br>
+**게시일자**  2023년 10월 8일(일) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/d81d3e66-9c1a-4d11-ae35-725efd7cfb00" align="center" width="235" height="511"> |
+
+<br>
 
 
 
