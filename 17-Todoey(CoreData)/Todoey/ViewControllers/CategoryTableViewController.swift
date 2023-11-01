@@ -11,7 +11,7 @@ import CoreData
 
 final class CategoryTableViewController: UITableViewController {
 
-    // MARK: - View
+    // MARK: - UIView
     
     lazy var addBarButton = {
         let barButton = UIBarButtonItem()

@@ -4,7 +4,7 @@
 ## Overview
 > ⌜The Complete iOS App Development Bootcamp⌟(Udemy, Angela 저)의 학습 내용을 정리한 저장소입니다.
 
-**BOOK LINK:** [The Complete iOS App Development Bootcamp]([https://www.inflearn.com/course/ios-uikit-15apps/dashboard](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250978#overview))
+**BOOK LINK:** [The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250978#overview)
 
 ## Table Of Contents
 * 01 - I am Rich
@@ -23,6 +23,8 @@
 * 14 - ByteCoin
 * 15 - FlashChat
 * 16 - Todoey(plist)
+* 17 - Todoey(CoreData)
+* 18 - Todoey(Realm)
 
 # Projects
 ## 01 - I am Rich
@@ -194,5 +196,23 @@
 
 **프로젝트** Todoey <br>
 **게시일자**  2023년 10월 23일(월) <br>
+
+<br>
+
+## 17 - Todoey(CoreData)
+
+**프로젝트** Todoey(CoreData) <br>
+**게시일자**  2023년 10월 23일(월) <br>
+
+<br>
+
+## 18 - Todoey(Realm)
+
+**프로젝트** Todoey(Realm) <br>
+**게시일자**  2023년 11월 1일(수) <br>
+
+| 이미지 |
+| :--: |
+| <img src="https://github.com/rlarjsdn3/angela-uikit-learning-notes/assets/21079970/6c171702-9c60-4e8c-bb57-593bd85bf70c" align="center" width="235" height="511"> |
 
 <br>
